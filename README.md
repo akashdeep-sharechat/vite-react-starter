@@ -1,4 +1,3 @@
-# Drop-in Replacement for [CRA](http://create-react-app.dev/) but powered by [Vite](https://vitejs.dev/)
 
 ### Things in CRA, supported here:
 - Import SVG's directly as React Component via SVGR
@@ -12,13 +11,6 @@
 ### Extra Additions
 - Conventional Commits using `Commitlint`
 - Run Lint Checks, TS Checks, Formatting & Unit Tests  in Pre-commit via `lintstaged` & `husky`
-
----
-
-### Usage (with [degit](https://github.com/Rich-Harris/degit))
-```bash
-degit uchihamalolan/vite-react-ts your-app-name
-```
 
 ---
 
